@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
-=======
-e- #!/bin/bash
->>>>>>> update_script
-The school is open!
+echo "The school is open!"
